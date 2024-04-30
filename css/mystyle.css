@@ -1,0 +1,96 @@
+.carousel-inner{
+    width: 1510px;
+    height: 500px;
+}
+h2{
+    margin-left: 10px;
+}
+h1{
+    margin-left: 5px;
+}
+p{
+    margin-left: 10px;
+    text-align: justify;
+}
+.contenido_1{
+    display: flex;
+    justify-content: space-between;
+}
+.primera_caja{
+  display: flex;
+}
+.segunda_caja{
+    display: flex;
+}
+.tercera_caja{
+    display: flex;
+}
+.contenedor2{
+    display: flex;
+    justify-content: space-between;
+}
+.im2{
+    display: flex;
+    width: 500px;
+    height: 380px;
+
+    
+
+}
+.im1{
+    display: flex;
+    width: 500px;
+    height: 380px;
+    
+}
+.im3{
+    display: flex;
+    width: 500px;
+    height: 380px;
+    
+}
+.sobre{
+    display: flex;
+    justify-content: space-between;
+
+}
+.foto1{
+    height: 150px;
+    width: 150px;
+}
+.foto2{
+    height: 150px;
+    width: 150px;
+}
+.foto3{
+    height: 150px;
+    width: 150px;
+}
+.foto4{
+    height: 150px;
+    width: 150px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+.fb{
+    width: 80px;
+    height: 80px;
+}
+.gh{
+    width: 80px;
+    height: 80px;
+}
+.wp{
+    width: 80px;
+    height: 80px;
+}
+.yt{
+    width: 80px;
+    height: 80px;
+}
+.ig{
+    width: 80px;
+    height: 80px;
+}
